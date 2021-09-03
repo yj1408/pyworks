@@ -6,7 +6,7 @@ y = -10
 #비교 연산
 print(x > 0)
 print(y > 0)
-print()
+print()   #한줄 띄우기
 print(x > y)
 print(x < y)
 print()
@@ -20,4 +20,6 @@ print()
 print(x > 0 and y > 0) #false
 print(x > 0 or y > 0) #true
 print(not y > 0) #True
-
+print()
+print(x is y) #False
+print(x is not y) #True
