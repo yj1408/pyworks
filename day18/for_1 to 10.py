@@ -18,7 +18,7 @@ for i in range(1, 11, 2):
 
 print()
 
-# 1 ~ 10 중 홀수 출력
+# 1 ~ 10 중 짝수 출력
 for i in range(1, 11, 1):
-    if i % 2 == 1:
+    if i % 2 == 0:
         print(i, end=" ")

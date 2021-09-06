@@ -16,8 +16,8 @@ else:
 
 
 
-for i in range(0, row_num):
-    for j in range(1, col_num+1):
+for i in range(0, row_num):         #행, 줄
+    for j in range(1, col_num+1):   #열 
         seat_num = i*col_num+j
         if seat_num > customer :
            break
