@@ -7,6 +7,7 @@ def one_up():
     return x
 
 
-print(one_up())
-print(one_up())
-print(one_up())
+print(one_up())  #2
+print(one_up())  #2
+print(one_up())  #2
+print(x)

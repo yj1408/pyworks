@@ -14,3 +14,5 @@ t.color('white')
 for x in range(n):
     t.circle(80)
     t.right(360/7.1)
+
+t.mainloop()

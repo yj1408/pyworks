@@ -7,7 +7,10 @@ def one_up():
     return x
 
 
-x = 1 #x는 전역 변수 : 프로그램이 종료되면 소멸됨, 값을 공유, 누
+
+
+#x는 전역 변수 : 프로그램이 종료되면 소멸됨, 값을 공유, 누적
+x = 1
 print(one_up())
 print(one_up())
 print(one_up())

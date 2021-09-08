@@ -23,7 +23,7 @@ print("{}년 {}월 {}일 {}시 {}분 {}초".format(now.year,
 print(now.strftime("%Y. %m. %d %H %M %S"))
 
 print("지금까지 몇 일?")
-day1 = datetime.datetime(2021, 8, 10) #날짜 설정
+day1 = datetime.datetime(2021, 8, 10w) #날짜 설정
 print(day1)
 today = datetime.datetime.today()
 print(today)
