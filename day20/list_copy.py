@@ -2,6 +2,8 @@
 li = [5, 8, 3, 2, 9]
 li2 = [] # 빈 리스트
 li3 = []
+li4 = []
+
 
 # li -> li2 복사(저장)
 for i in li:
@@ -23,4 +25,14 @@ print()
 for i in li:
     if i % 2 == 0:
         li3.append(i)
+
+
 print(li3)
+print()
+
+#li4에 3보다 큰 수 저장
+for i in li:
+    if i > 3:
+        li4.append(i)
+
+print(li4)

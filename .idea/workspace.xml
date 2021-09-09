@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/day21/class_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/employee_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/function/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/function/extends_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/function/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/function_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/counter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/myclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/libs/student2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/mod2.test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/mod_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/polygon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/func_abs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/gloval_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/gloval_var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/local_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/local_var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/mod_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/mod_datetime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media_turtle/circles.py" beforeDir="false" afterPath="$PROJECT_DIR$/media_turtle/circles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media_turtle/figure.py" beforeDir="false" afterPath="$PROJECT_DIR$/media_turtle/figure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media_turtle/move.py" beforeDir="false" afterPath="$PROJECT_DIR$/media_turtle/move.py" afterDir="false" />
+    <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="디폴트 변경 목록">
+      <change afterPath="$PROJECT_DIR$/day22/class_lib/airplane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/class_lib/cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/class_lib/colculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/class_lib/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/class_lib/person2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/list_ex/list_append.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/list_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/list_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/class_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/class_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/function/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/function/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/libs/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/libs/counter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +40,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day21/libs" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ncstest" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\webDev\pyworks\day21\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.employee_test">
-    <configuration name="counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.list_copy">
+    <configuration name="airplane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21/libs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/class_lib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/libs/counter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/class_lib/airplane.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="counter2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21/libs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/class_lib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/libs/counter2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/class_lib/cart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,8 +91,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="employee_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="colculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/class_lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/class_lib/colculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="employee_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -114,9 +120,10 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/employee_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -126,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="myclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21/libs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/list_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/libs/myclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/list_ex/list_append.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21/libs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/libs/student2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/list_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.employee_test" />
-        <item itemvalue="Python.myclass" />
-        <item itemvalue="Python.counter2" />
-        <item itemvalue="Python.counter" />
-        <item itemvalue="Python.student2" />
+        <item itemvalue="Python.list_copy" />
+        <item itemvalue="Python.list_append" />
+        <item itemvalue="Python.colculator" />
+        <item itemvalue="Python.cart" />
+        <item itemvalue="Python.airplane" />
       </list>
     </recent_temporary>
   </component>
