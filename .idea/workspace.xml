@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="디폴트 변경 목록">
-      <change afterPath="$PROJECT_DIR$/day24/dictionary/dic1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/dictionary/dic2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/dictionary/dic_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/fread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/fwrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/fwrite2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/fwrite2_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/kbo2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/file_io/kbo2021_r.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/module/guess_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/module/typing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/goto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/move_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/run_turtle_easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/customer_manage/customer_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/customer_manage/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/dictionary/dic_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/exercise/exercise_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/f_typing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/fread_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/freadlines_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/fwrite_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/fwrite_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/file_io/input_fwrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/list/list2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/list/list2d_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/list/list2d_ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media_turtle/key.py" beforeDir="false" afterPath="$PROJECT_DIR$/media_turtle/key_move.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day24/file_io" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day25/file_io" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -70,11 +70,33 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\webDev\pyworks\day25\file_io" />
       <recent name="C:\webDev\pyworks\day24\file_io" />
       <recent name="C:\webDev\pyworks\day21\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_turtle_easy">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="customer_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25/customer_manage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/customer_manage/customer_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="employee_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="goto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/goto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/exercise/exercise_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="key_move" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="input_fwrite (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25/file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/key_move.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/file_io/input_fwrite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="move_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="input_fwrite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25/file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/move_random.py" />
+      <option name="SCRIPT_NAME" value="C:\webDev\pyworks\day25\file_io\input_fwrite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="polygon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,32 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day25/customer_manage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/polygon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run_turtle_easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/run_turtle_easy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day25/customer_manage/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_turtle_easy" />
-        <item itemvalue="Python.move_random" />
-        <item itemvalue="Python.goto" />
-        <item itemvalue="Python.key_move" />
-        <item itemvalue="Python.polygon" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.customer_class" />
+        <item itemvalue="Python.exercise_function" />
+        <item itemvalue="Python.input_fwrite (1)" />
+        <item itemvalue="Python.input_fwrite" />
       </list>
     </recent_temporary>
   </component>
