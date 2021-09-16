@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="디폴트 변경 목록">
-      <change afterPath="$PROJECT_DIR$/day25/customer_manage/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/data/list2d_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/data/score_dic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/data/score_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/flask_web/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/website/start_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/website/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/website/static/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/website/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/website/static/js/watch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/website/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/website/templates/member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27/data_list/find_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27/data_list/find_same_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27/data_set/set_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25/list/list2d_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/list/list2d_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day26/data/score_dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/day26/data/score_dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day26/website/start_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/day26/website/start_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day26/website/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/day26/website/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day26/website/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day26/website/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,28 +74,7 @@
       <recent name="C:\webDev\pyworks\day21\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.start_app">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day26/flask_web" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day26/flask_web/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.set_ex">
     <configuration name="employee_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list2d_ex (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +104,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day26/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day27/data_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day26/data/list2d_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day27/data_list/find_max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_same_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day27/data_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day27/data_list/find_same_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="score_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day26/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day27/data_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day26/data/score_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day27/data_set/set_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start_app" />
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.set_ex" />
+        <item itemvalue="Python.find_same_name" />
+        <item itemvalue="Python.find_max" />
         <item itemvalue="Python.score_dic" />
-        <item itemvalue="Python.score_list" />
-        <item itemvalue="Python.list2d_ex (1)" />
+        <item itemvalue="Python.start_app" />
       </list>
     </recent_temporary>
   </component>
