@@ -14,9 +14,9 @@ s.remove(10)
 s.remove(6)
 print(s)
 
-str = set("Hello")
+str = set("Hello")       #list() set=()
 print(str)
 
-#
+# 중복 제거후 출력
 name = set(['콩쥐', '팥쥐', '콩쥐'])
 print(name)
