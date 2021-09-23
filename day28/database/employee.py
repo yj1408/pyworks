@@ -6,7 +6,7 @@ def select_data():
     #conn = sqlite3.connect("c:/webdb/webdb.db")
     conn = getconn()
     cur = conn.cursor()   # cur 는 모든 작업을 하는 객체
-    sql = "SELECT * FROM employee"
+    sql = "SELECT * FROM employee ORDER BY salary DESC"
     cur.execute(sql)   # db 에서 sql문을 실행
     rs = cur.fetchall()  # db 에서 가져온 모든자료 리스트로 기억(ResultSet)
     for i in rs:
@@ -18,8 +18,9 @@ def insert_data():
     #conn = sqlite3.connect("C:/webdb/webdb.db")
     conn = getconn()
     cur = conn.cursor()
-    sql = "INSERT INTO employee VALUES (?, ?, ?, ?)"
-    cur.execute(sql, ('e1006', '박인비', 33, 15000)) # 동적 바인딩 방식
+    sql = "INSERT INTO employee VALUES ('e20001', '흥부', 31, 1000)"
+    #sql = "INSERT INTO employee VALUES (?, ?, ?, ?)"
+    #cur.execute(sql, ('e1006', '박인비', 33, 15000)) # 동적 바인딩 방식
     conn.commit()      # 삽입, 수정, 삭제시는 반드시 명시해야 함
     conn.close()
 

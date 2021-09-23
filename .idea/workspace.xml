@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="디폴트 변경 목록">
-      <change afterPath="$PROJECT_DIR$/day28/database/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/file_io/freadline_animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/file_io/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/file_io/member.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/libs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/libs/dbconn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/string/find_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/string/strip_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_turtle/cannon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/db/member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/start_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/lambda/lambda_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/lambda/lambda_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/lambda/param0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/lambda/param1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/lambda/param2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/module/os_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/module/threading_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/module/threading_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/module/threading_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25/file_io/fread_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/file_io/fread_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day26/data/score_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/day26/data/score_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day27/data_set/set_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/day27/data_set/set_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day28/database/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/day28/database/employee.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day26/website/static/images" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -75,29 +79,11 @@
       <recent name="C:\webDev\pyworks\day24\file_io" />
       <recent name="C:\webDev\pyworks\day21\libs" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\webDev\pyworks\day29\form_control\template" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.cannon">
-    <configuration name="cannon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/cannon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.member">
     <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="freadline_animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="member" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day28/file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day29/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day28/file_io/freadline_animal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day29/db/member.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="start_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day28/file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day29/form_control" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day28/file_io/login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day29/form_control/start_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_turtle_easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="threading_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +176,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/media_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day29/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/media_turtle/run_turtle_easy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day29/module/threading_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="threading_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day29/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\webDev\pyworks\day29\module\threading_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cannon" />
-        <item itemvalue="Python.run_turtle_easy" />
+        <item itemvalue="Python.member" />
         <item itemvalue="Python.employee" />
-        <item itemvalue="Python.login" />
-        <item itemvalue="Python.freadline_animal" />
+        <item itemvalue="Python.start_app" />
+        <item itemvalue="Python.threading_test (1)" />
+        <item itemvalue="Python.threading_test" />
       </list>
     </recent_temporary>
   </component>
