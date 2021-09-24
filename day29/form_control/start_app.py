@@ -17,5 +17,20 @@ def output():
     pwd = request.form['passwd']
     return render_template('output.html', uid = uid, pwd = pwd)
 
+@app.route('/input_num', methods=['GET'])
+def input_num():
+    return render_template('input_num.html')
 
+# 짝수/홀수 판정 프로그램
+@app.route('/even_odd', methods=['POST'])
+def even_odd():
+    num = int(request.form['num'])
+    if num % 2 == 0:
+        result = "짝수입니다."
+    else:
+        result = "홀수입니다."
+        0
+
+    return render_template('even_odd.html', num=num, result=result)
+    #딕셔너리의 key=value 구조임
 app.run()
