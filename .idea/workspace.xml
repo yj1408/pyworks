@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="671206de-91e6-4a27-8a95-a592d43af33f" name="디폴트 변경 목록" comment="디폴트 변경 목록">
-      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/even_odd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/input_num.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/db/tbl_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/re_ex/findall_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/re_ex/findall_ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/re_ex/re_ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/re_ex/re_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/memberlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29/form_control/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/webcotrl/bs4_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/webcotrl/bs4_ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/webcotrl/bs4_ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/webcotrl/naver_meau.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/webcotrl/urllib_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29/db/member.py" beforeDir="false" afterPath="$PROJECT_DIR$/day29/db/member.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29/form_control/start_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/day29/form_control/start_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29/form_control/templates/even_odd.html" beforeDir="false" afterPath="$PROJECT_DIR$/day29/form_control/templates/even_odd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29/form_control/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day29/form_control/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29/form_control/templates/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/day29/form_control/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29/form_control/templates/input_num.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29/form_control/templates/output.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day26/website/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day31/webcotrl" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -68,16 +73,80 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\webDev\pyworks\day31\webcotrl" />
+      <recent name="C:\webDev\pyworks\day29\form_control\templates" />
       <recent name="C:\webDev\pyworks\day26\website\static\images" />
       <recent name="C:\webDev\pyworks\day25\file_io" />
       <recent name="C:\webDev\pyworks\day24\file_io" />
-      <recent name="C:\webDev\pyworks\day21\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\webDev\pyworks\day29\form_control\template" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.re_ex2">
+  <component name="RunManager" selected="Python.naver_meau">
+    <configuration name="bs4_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day31/webcotrl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day31/webcotrl/bs4_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs4_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day31/webcotrl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day31/webcotrl/bs4_ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bs4_ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyworks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day31/webcotrl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day31/webcotrl/bs4_ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="employee_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findall_ex (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="naver_meau" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/re_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day31/webcotrl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/re_ex/findall_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day31/webcotrl/naver_meau.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findall_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="urllib_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,74 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/re_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day31/urllibs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\webDev\pyworks\day30\re_ex\findall_ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="findall_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/re_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/re_ex/findall_ex2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="re_ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/re_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/re_ex/re_ex1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="re_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyworks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day30/re_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day30/re_ex/re_ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day31/urllibs/urllib_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.re_ex2" />
-        <item itemvalue="Python.findall_ex2" />
-        <item itemvalue="Python.findall_ex (1)" />
-        <item itemvalue="Python.findall_ex" />
-        <item itemvalue="Python.re_ex1" />
+        <item itemvalue="Python.naver_meau" />
+        <item itemvalue="Python.bs4_ex3" />
+        <item itemvalue="Python.bs4_ex2" />
+        <item itemvalue="Python.bs4_ex" />
+        <item itemvalue="Python.urllib_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +253,16 @@
           <url>file://$PROJECT_DIR$/day25/file_io/fread_ex.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day31/webcotrl/bs4_ex.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day31/webcotrl/bs4_ex2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
