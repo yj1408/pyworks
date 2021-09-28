@@ -21,12 +21,16 @@ html_str = """
 
 html = BeautifulSoup(html_str, "html.parser")
 ul = html.find('ul', {'class':'lang'})  # 딕셔너리 구조{선택자:값}
-#print(ul)
-#print(ul.text)
+print(ul)
+print(ul.text)
 
-li = ul.find('li')  # 첫 요소만 찾음
+#li = ul.find('li')  # 첫 요소만 찾음
 #print(li.text)
 
+#findAll(), select('태그이름.클래스이름')
 all_li = ul.findAll('li')
+#all_li = html.select('ul.lang')
+#for i in all li:
+ #   lang = li.select_one()
 print(all_li)
 print(all_li[2].text)
